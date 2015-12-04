@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-rtl",
+  "homepage": "https://github.com/p3ym4n/bootstrap-rtl",
+  "authors": [
+    "p3ym4n (peyman.goldaste@gmail.com)"
+  ],
+  "description": "Right to Left (RTL) version of twitter's bootstrap html framework.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap",
+    "rtl",
+    "bootstrap-rtl",
+    "bootstrap.rtl",
+    "bootstraprtl",
+    "rtl-bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
