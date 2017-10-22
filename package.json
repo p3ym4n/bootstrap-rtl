@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-rtl",
+  "version": "1.0.0",
+  "description": "Right to Left (RTL) version of twitter's bootstrap html framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p3ym4n/bootstrap-rtl.git"
+  },
+  "author": "peyman goldaste",
+  "keywords": [
+    "bootstrap",
+    "rtl",
+    "bootstrap-rtl",
+    "bootstrap.rtl",
+    "bootstraprtl",
+    "rtl-bootstrap"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p3ym4n/bootstrap-rtl/issues"
+  },
+  "dependencies": {
+    "jquery": "1.9.1 - 2"
+  },
+  "homepage": "https://github.com/p3ym4n/bootstrap-rtl#readme"
+}
